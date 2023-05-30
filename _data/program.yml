@@ -1,0 +1,158 @@
+- day: 1
+  time: 9 am
+  title: Opening Remarks
+  room: Hermann Hall Ballroom
+
+- day: 1
+  time: 9:10 am
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 1
+  time: 10 am
+  title: Coffee Break
+  room: Hermann Hall
+
+- day: 1
+  time: 10:30 am
+  title: Parallel Sessions
+  room: TBD
+
+- day: 1
+  time: 12:30 pm
+  title: Lunch
+
+- day: 1
+  time: 1:30 pm
+  title: Parallel Sessions
+  room: Various
+
+- day: 1
+  time: 3:30 pm
+  title: Coffee Break
+  room: Hermann Hall
+
+- day: 1
+  time: 4 pm
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 1
+  time: 6 pm
+  title: Welcome Cocktail Reception
+  room: Hermann Hall
+
+- day: 2
+  time: 9 am
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 2
+  time: 10 am
+  title: Coffee Break
+  room: Hermann Hall
+
+- day: 2
+  time: 10:30 am
+  title: Parallel Sessions
+  room: TBD
+
+- day: 2
+  time: 12:30 pm
+  title: Lunch
+
+- day: 2
+  time: 1:30 pm
+  title: Parallel Sessions
+  room: Various
+
+- day: 2
+  time: 3:30 pm
+  title: Coffee Break
+  room: Hermann Hall
+
+- day: 2
+  time: 4 pm
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 3
+  time: 9 am
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 3
+  time: 10 am
+  title: Coffee Break
+  room: Hermann Hall
+
+- day: 3
+  time: 10:30 am
+  title: Parallel Sessions
+  room: TBD
+
+- day: 3
+  time: 12:30 pm
+  title: Group Photo
+
+- day: 3
+  time: 12:45 pm
+  title: Lunch and Poster Session
+
+- day: 3
+  time: 7 pm
+  title: Cruise and Banquet
+
+- day: 4
+  time: 9 am
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 4
+  time: 10 am
+  title: Coffee Break
+  room: Hermann Hall
+
+- day: 4
+  time: 10:30 am
+  title: Parallel Sessions
+  room: TBD
+
+- day: 4
+  time: 12:30 pm
+  title: Lunch
+
+- day: 4
+  time: 1:30 pm
+  title: Parallel Sessions
+  room: Various
+
+- day: 4
+  time: 3:30 pm
+  title: Coffee Break
+  room: Hermann Hall
+
+- day: 4
+  time: 4 pm
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 5
+  time: 9 am
+  title: Parallel Sessions
+  room: TBD
+
+- day: 5
+  time: 10:30 am
+  title: Coffee Break
+
+- day: 5
+  time: 11 am
+  title: Plenary Talk
+  room: Hermann Hall Ballroom
+
+- day: 5
+  time: 11:30 am 
+  title: Closing Remarks
+  room: Hermann Hall Ballroom
+

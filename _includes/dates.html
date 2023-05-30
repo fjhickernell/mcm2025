@@ -1,0 +1,8 @@
+
+<div class="well">
+<h4>Important Dates</h4>
+
+{% for article in site.data.dates limit:20 %}
+{{ article.date }}
+<p>{{ article.headline }}</p>
+{% endfor %}
