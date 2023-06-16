@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The biennial International Conference on Monte Carlo Methods and Applications (MCM) (formerly IMACS Seminar on Monte Carlo Methods) is one of the most prominent conference series devoted to research on the mathematical aspects of stochastic simulation and Monte Carlo methods.
+The biennial International Conference on Monte Carlo Methods and Applications (MCM) (formerly IMACS Seminar on Monte Carlo Methods) is one of the most prominent conference series devoted to research on stochastic simulation and Monte Carlo methods.
 
 <!--This 15th edition aims to cover traditional topics of MCM conferences (Computational statistical physics, Quasi Monte Carlo methods, Markov Chain Monte Carlo in high dimension, Multilevel methods, Rare events simulation, Stochastic gradient and other stochastic optimization methods…) as well as emerging topics coming from applications and from artificial intelligence as: Generative models, Experimental design in Uncertainty Quantification, Monte Carlo simulations and High Performance computing, Reinforcement learning and control, Statistical learning and Monte Carlo sampling, Economic and industrial applications (Deeptech, finance, medicine, climate risks for instance).
 -->
@@ -46,10 +46,10 @@ TBD
 
 # Organizers
 
-* Fred Hickernell, Applied Mathematics, Illinois Institute of Technology
 * Sou-Cheng Choi, Principal Data Scientist, SAS Institute
 * Yuhan Ding, Applied Mathematics, Illinois Institute of Technology
 * Gloria Hernandez, Illinois Institute of Technology
+* Fred Hickernell, Applied Mathematics, Illinois Institute of Technology
 * Tim Hobbs, Physics, Argonne National Laboratory
 * Lulu Kang, Department of Mathematics and Statistics, University of Massachusetts Amherst
 * Yiou Li, Mathematical Sciences, DePaul University
