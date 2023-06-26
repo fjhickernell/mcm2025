@@ -1,6 +1,6 @@
 # MCM 2025 Website
 
-This is the website of David Minh's academic research group at Illinois Tech.
+This is the website of MCM 2025 at Illinois Tech.
 
 The website is hosted by [GitHub pages](https://ccbatiit.github.io/mcm2025). GitHub also contains the [website source](https://github.com/CCBatIIT/mcm2025).
 
