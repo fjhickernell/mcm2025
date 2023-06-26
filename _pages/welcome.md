@@ -11,6 +11,8 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 <!--This 15th edition aims to cover traditional topics of MCM conferences (Computational statistical physics, Quasi Monte Carlo methods, Markov Chain Monte Carlo in high dimension, Multilevel methods, Rare events simulation, Stochastic gradient and other stochastic optimization methods…) as well as emerging topics coming from applications and from artificial intelligence as: Generative models, Experimental design in Uncertainty Quantification, Monte Carlo simulations and High Performance computing, Reinforcement learning and control, Statistical learning and Monte Carlo sampling, Economic and industrial applications (Deeptech, finance, medicine, climate risks for instance).
 -->
 
+{% include subscribe.html %}
+
 # Topics
 
 MCM 2025 will include active topics of research in Monte Carlo methods---those with a long history as well as those emerging topics.  These will include
