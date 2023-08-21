@@ -1,7 +1,7 @@
 ---
 title: "MCM 2025 - Welcome"
 layout: homelay
-excerpt: "MCM 2025 at Illinois Tech."
+excerpt: "MCM 2025 in Chicago, Illinois."
 sitemap: false
 permalink: /
 ---
