@@ -42,9 +42,36 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Computational statistical physics
 * Economic, engineering, industrial, and scientific applications
 
-# Program Committee
+# Scientific Committee
 
-TBD
+* Miguel Arratia, Department of Physics and Astronomy, U California, Riverside
+* Ronald Cools, Department of Computer Science, KU Leuven
+* Xinwei Deng, Department of Statistics, Virginia Polytechnic and State U
+* Jing Dong, Graduate School of Business, Columbia
+* Mike Giles, Mathematical Institute, Oxford U
+* Emmanuel Gobet, Centre de Mathématiques Appliquées, École Polytechnique
+* Shane Henderson, School of Operations Research and Information Engineering, Cornell U
+* Xuhui Huang, Department of Chemistry, UW Madison
+* Joshua Isaacson, Fermilab
+* Peter Kritzer, Johann Radon Institute for Computational and Applied Mathematics, Austrian Academy of Sciences
+* Frances Kuo, School of Mathematics and Statistics, U New South Wales
+* Pierre L'Ecuyer, Département d'informatique et de recherche opérationnelle, U Montréal
+* Christiane Lemieux, Department of Statistics and Actuarial Science, U Waterloo
+* Gunther Leobacher, Institute of Mathematics and Scientific Computing, U Graz
+* Chunfang Devon Lin, Department of Mathematics and Statistics, Queens U
+* Simon Mak, Department of Statistical Science, Duke U
+* Thomas Müller-Gronbach, Faculty of Computer Science and Mathematics, U Passau
+* Ben Nachman, Lawrence Berkeley National Lab
+* Chris Oates, School of Mathematics, Statistics, and Physics, U Newcastle Upon Tyne
+* Art Owen, Department of Statistics, Stanford U
+* Raghu Pasupathy, Department of Statistics, Purdue U
+* Natesh Pillai, Department of Statistics, Harvard U
+* Pieterjan Robbe, Sandia National Labs
+* Veronika Rockova, Chicago Booth School of Business, U Chicago
+* Jeffrey Rosenthal, Department of Statistics, U Toronto
+* Aretha Teckentrup, School of Mathematics, U Edinburgh
+* Bruno Tuffin, INRIA Rennes Bretagne-Atlantique
+* Jonathan Weare, Courant Institute of Mathematical Sciences, New York U
 
 # Organizers
 
@@ -53,11 +80,11 @@ TBD
 * Gloria Hernandez, Illinois Institute of Technology
 * Fred Hickernell, Applied Mathematics, Illinois Institute of Technology
 * Tim Hobbs, Physics, Argonne National Laboratory
-* Lulu Kang, Mathematics and Statistics, University of Massachusetts Amherst
-* Yiou Li, Mathematical Sciences, DePaul University
+* Lulu Kang, Mathematics and Statistics, U Massachusetts Amherst
+* Yiou Li, Mathematical Sciences, DePaul U
 * David Minh, Chemistry, Illinois Institute of Technology
-* Chang-Han Rhee, Industrial Engineering and Management Sciences, Northwestern University
-* Daniel Sanz-Alonso, Statistics, University of Chicago
+* Chang-Han Rhee, Industrial Engineering and Management Sciences, Northwestern U
+* Daniel Sanz-Alonso, Statistics, U Chicago
 
 # History of conferences
 
