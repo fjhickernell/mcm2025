@@ -60,6 +60,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Gunther Leobacher, Institute of Mathematics and Scientific Computing, U Graz
 * Chunfang Devon Lin, Department of Mathematics and Statistics, Queens U
 * Simon Mak, Department of Statistical Science, Duke U
+* Michael Mascagni, Department of Computer Science, Florida State U
 * Thomas Müller-Gronbach, Faculty of Computer Science and Mathematics, U Passau
 * Ben Nachman, Lawrence Berkeley National Lab
 * Chris Oates, School of Mathematics, Statistics, and Physics, U Newcastle Upon Tyne
