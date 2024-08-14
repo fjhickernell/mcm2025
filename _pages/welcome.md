@@ -42,6 +42,17 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Computational statistical physics
 * Economic, engineering, industrial, and scientific applications
 
+# Plenary Speakers
+
+* Veronika Rockova, University of Chicago
+* Uros Seljak, U California, Berkeley
+* Roshan Joseph, Georgia Institute of Technology
+* Peter W Glynn, Stanford U
+* Nicolas Chopin, ENSAE, Institut Polytechnique de Paris
+* Matt Pharr, NVIDIA
+* Michaela Szölgyenyi, University of Klagenfurt (AAU)
+* Christiane Lemieux, University of Waterloo
+
 # Scientific Committee
 
 * Miguel Arratia, Department of Physics and Astronomy, U California, Riverside
