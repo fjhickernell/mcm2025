@@ -44,14 +44,14 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 
 # Plenary Speakers
 
+* Nicolas Chopin, ENSAE, Institut Polytechnique de Paris
+* Peter W Glynn, Stanford U
+* Roshan Joseph, Georgia Institute of Technology
+* Christiane Lemieux, University of Waterloo
 * Veronika Rockova, University of Chicago
 * Uros Seljak, U California, Berkeley
-* Roshan Joseph, Georgia Institute of Technology
-* Peter W Glynn, Stanford U
-* Nicolas Chopin, ENSAE, Institut Polytechnique de Paris
-* Matt Pharr, NVIDIA
 * Michaela Szölgyenyi, University of Klagenfurt (AAU)
-* Christiane Lemieux, University of Waterloo
+* Matt Pharr, NVIDIA
 
 # Scientific Committee
 
