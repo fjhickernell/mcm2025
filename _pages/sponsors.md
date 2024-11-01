@@ -10,5 +10,6 @@ The conference is sponsored by [Institute for Mathematical and Statistical Innov
 
 [<img src="../images/logos/NSF_Official_logo_High_Res_1200ppi.png" alt="NSF" width="25%">](https://www.nsf.gov)
 [<img src="../images/logos/iMSI_logo_sig_bottom_color.png" alt="iMSI" width="25%">](https://www.imsi.institute)
+[<img src="../images/logos/CAM.png" alt="CAM" width="25%">](https://cam.uchicago.edu/)
 
 <!-- , and two research centers at IIT: the [Center for Interdisciplinary Scientific Computation](https://cos.iit.edu/cisc/) and the [Center for Stochastic Dynamics](https://mypages.iit.edu/~duan/LSD.html). -->
