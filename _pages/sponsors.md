@@ -6,13 +6,21 @@ sitemap: false
 permalink: /sponsors/
 ---
 
-The conference is sponsored by [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), 
-a US National Science Foundation research institute based at the University of Chicago.
+The conference is sponsored by:
+
+* The [The Illinois Institute of Technology](https://www.iit.edu/)
+
+/Users/dminh/GitHub/mcm2025/images/logos/ILTECH_red_horiz.png
+
+[<img src="../images/logos/ILTECH_red_horiz.png" alt="Illinois Tech" width="50%">](https://www.iit.edu/)
+
+* [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), 
+a US National Science Foundation research institute based at the University of Chicago
 
 [<img src="../images/logos/NSF_Official_logo_High_Res_1200ppi.png" alt="NSF" width="25%">](https://www.nsf.gov)
 [<img src="../images/logos/iMSI_logo_sig_bottom_color.png" alt="iMSI" width="25%">](https://www.imsi.institute)
 
-It is also sponsored by the [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/) at the University of Chicago.
+* The [Committee on Computational and Applied Mathematics](https://cam.uchicago.edu/) at the University of Chicago
 
 [<img src="../images/logos/CAM.png" alt="CAM" width="50%">](https://cam.uchicago.edu/)
 
