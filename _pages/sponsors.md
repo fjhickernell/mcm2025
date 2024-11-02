@@ -12,7 +12,7 @@ The conference is sponsored by:
 
 [<img src="../images/logos/ILTECH_red_horiz.png" alt="Illinois Tech" width="55%">](https://www.iit.edu/)
 
-* [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), 
+* The [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute), 
 a US National Science Foundation research institute based at the University of Chicago
 
 [<img src="../images/logos/NSF_Official_logo_High_Res_1200ppi.png" alt="NSF" width="25%">](https://www.nsf.gov)
