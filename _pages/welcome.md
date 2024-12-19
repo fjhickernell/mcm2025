@@ -13,7 +13,7 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 
 The portal for special sessions and contributed talk submissions is open! See <a href="{{ site.url }}{{ site.baseurl }}/abstracts">Abstracts</a>.
 
-[Subscribe](http://eepurl.com/i5M1j2) to receive updates about the conference. We will not use your email for any other purpose.
+[Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
 
 # Topics
 

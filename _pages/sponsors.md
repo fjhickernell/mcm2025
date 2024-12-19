@@ -22,4 +22,14 @@ a US National Science Foundation research institute based at the University of C
 
 [<img src="../images/logos/CAM.png" alt="CAM" width="55%">](https://cam.uchicago.edu/)
 
-* Argonne National Laboratory
+* [Argonne National Laboratory](https://www.anl.gov/)
+
+[<img src="../images/logos/anl.png" width="55%">](https://www.anl.gov/)
+
+* [NYU Courant Institute](https://cims.nyu.edu/)
+
+[<img src="../images/logos/cims.png" width="55%">](https://cims.nyu.edu/)
+
+* [BeeInventor: IoT for Smart Construction](https://www.beeinventor.com/)
+
+[<img src="../images/logos/beeinventor.jpeg" alt="IoT for Smart Construction" width="55%">](https://www.beeinventor.com/)
