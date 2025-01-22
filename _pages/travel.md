@@ -12,6 +12,10 @@ MCM 2025 will take place in Chicago. Greater Chicago is home to several research
 
 The conference will be held at Hermann Hall at the Mies campus of the Illinois Institute of Technology, which is situated a few miles south of downtown and accessible by public transportation. See [directions to IIT](https://www.iit.edu/about/campus-information/mies-campus) and the [IIT Campus Map](https://www.iit.edu/about/campus-information/mies-campus/mies-campus-map). 
 
+# Lodging
+
+We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 USD + tax per night.  This hotel is not far from the Illinois Tech campus and near several attractions in downtown Chicago. To book a room at the conference rate, use [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1734631273407&key=GRP&guestreslink2=true&app=resvlink).
+
 ## Campus
 <div row>
 <div class="col-sm-8">
@@ -36,7 +40,3 @@ The conference will be held at Hermann Hall at the Mies campus of the Illinois I
 <p align="center">
 ![31st street beach](../images/chicago/31st_street_beach_night.png)
 </p>
-
-# Lodging
-
-We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 USD + tax per night.  This hotel is not far from the Illinois Tech campus and near several attractions in downtown Chicago. To book a room at the conference rate, use [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1734631273407&key=GRP&guestreslink2=true&app=resvlink).
