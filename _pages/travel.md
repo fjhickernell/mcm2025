@@ -16,6 +16,10 @@ The conference will be held at Hermann Hall at the Mies campus of the Illinois I
 
 We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 USD + tax per night.  This hotel is not far from the Illinois Tech campus and near several attractions in downtown Chicago. To book a room at the conference rate, use [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1734631273407&key=GRP&guestreslink2=true&app=resvlink).
 
+# Travel support
+
+We will provide travel support for some early career scholars through our sponsor, IMSI.  [Apply on their website here](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/).  We will start notifying successful applicants soon after February 28.
+
 ## Campus
 <div row>
 <div class="col-sm-8">

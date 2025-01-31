@@ -11,5 +11,3 @@ All MCM 2025 attendees must register. Registration is a two part process:
 * [Complete payment](https://secure.touchnet.com/C20090_ustores/web/product_detail.jsp?PRODUCTID=2458&SINGLESTORE=true), which is $375 on or before April 30, 2025 and $475 on or after May 1, 2025.
 
 Note that submitting a special session proposal or contributed talk abstract is a separate process.
-
-We will provide travel support for some early career scholars through our sponsor, IMSI.  [Apply on their website here](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/).  We will start notifying successful applicants soon after February 28.
