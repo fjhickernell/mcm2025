@@ -15,6 +15,8 @@ The portal for special sessions and contributed talk submissions is open! See <a
 
 [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
 
+We will provide travel support for some early career scholars through our sponsor, IMSI.  [Apply on their website here](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/).  We will start notifying successful applicants soon after February 28.
+
 # Topics
 
 MCM 2025 will include active topics of research in Monte Carlo methods---those with a long history as well as those emerging topics.  These will include

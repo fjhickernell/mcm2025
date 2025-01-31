@@ -12,3 +12,4 @@ All MCM 2025 attendees must register. Registration is a two part process:
 
 Note that submitting a special session proposal or contributed talk abstract is a separate process.
 
+We will provide travel support for some early career scholars through our sponsor, IMSI.  [Apply on their website here](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/).  We will start notifying successful applicants soon after February 28.
