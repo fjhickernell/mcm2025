@@ -6,6 +6,8 @@ sitemap: false
 permalink: /program/
 ---
 
+A draft program will be available mid-May.
+
 {% for day in (1..5) %} 
 ## Day {{ day }}
 

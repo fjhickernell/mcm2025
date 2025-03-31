@@ -18,7 +18,7 @@ We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 US
 
 # Travel support
 
-We will provide travel support for some early career scholars through our sponsor, IMSI.  [Apply on their website here](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/).  We will start notifying successful applicants soon after February 28.
+Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist.
 
 ## Campus
 <div row>

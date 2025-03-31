@@ -11,11 +11,11 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 <!--This 15th edition aims to cover traditional topics of MCM conferences (Computational statistical physics, Quasi Monte Carlo methods, Markov Chain Monte Carlo in high dimension, Multilevel methods, Rare events simulation, Stochastic gradient and other stochastic optimization methods…) as well as emerging topics coming from applications and from artificial intelligence as: Generative models, Experimental design in Uncertainty Quantification, Monte Carlo simulations and High Performance computing, Reinforcement learning and control, Statistical learning and Monte Carlo sampling, Economic and industrial applications (Deeptech, finance, medicine, climate risks for instance).
 -->
 
-The portal for special sessions and contributed talk submissions is open! See <a href="{{ site.url }}{{ site.baseurl }}/abstracts">Abstracts</a>.
-
 [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
 
-We will provide travel support for some early career scholars through our sponsor, IMSI.  [Apply on their website here](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/).  We will start notifying successful applicants soon after February 28.
+Special sessions and contributed talks have been selected, but it may be possible to add more. If you are interested in a late submission, please contact us at info@mcm2025chicago.org before submitting an <a href="{{ site.url }}{{ site.baseurl }}/abstracts">abstracts</a>.
+
+Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist.
 
 # Topics
 
