@@ -13,7 +13,7 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 
 [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
 
-Special sessions and contributed talks have been selected, but it may be possible to add more. If you are interested in a late submission, please contact us at info@mcm2025chicago.org before submitting an <a href="{{ site.url }}{{ site.baseurl }}/abstracts">abstracts</a>.
+Special sessions and contributed talks have been selected, but it may be possible to add more. If you are interested in a late submission, please contact us at info@mcm2025chicago.org before submitting an <a href="{{ site.url }}{{ site.baseurl }}/abstracts">abstract</a>.
 
 Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist.
 
