@@ -16,6 +16,17 @@ The conference will be held at Hermann Hall at the Mies campus of the Illinois I
 
 We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 USD + tax per night.  This hotel is not far from the Illinois Tech campus and near several attractions in downtown Chicago. To book a room at the conference rate, use [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1734631273407&key=GRP&guestreslink2=true&app=resvlink).
 
+# Travel to the United States
+
+Visitors to the United States must obtain a visa or complete an Electronic Electronic System for Travel Authorization Application at [https://esta.cbp.dhs.gov](https://esta.cbp.dhs.gov).  You may put as a point of contact the hotel where you will be staying or,
+
+> Fred J. Hickernell  
+> RE 208, 10 W. 32nd St.  
+> Illinois Institute of Technology  
+> Chicago, IL 60616  
+> Email: info@mcm2025chicago.org  
+> Phone: +1 312-567-8983  
+
 # Travel support
 
 Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist.
