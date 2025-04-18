@@ -14,7 +14,7 @@ The conference will be held at Hermann Hall at the Mies campus of the Illinois I
 
 # Lodging
 
-We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 USD + tax per night.  This hotel is not far from the Illinois Tech campus and near several attractions in downtown Chicago. To book a room at the conference rate, use [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1734631273407&key=GRP&guestreslink2=true&app=resvlink).
+We have negotiated a special rate with Le Méridien Essex Chicago for $249.00 USD + tax per night. This hotel is not far from the Illinois Tech campus and near several attractions in downtown Chicago. To book a room at the conference rate, use [this link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1734631273407&key=GRP&guestreslink2=true&app=resvlink) and scroll down to see the conference rate. If you need to extend your reservation beyond the July 27 – August 1 window, email the sales director, Daniel Grajdura <daniel.grajdura@ohrllc.com> with the extra dates that you wish to book. He will extend your reservation at the current market rate.
 
 # Travel to the United States
 
