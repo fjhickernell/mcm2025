@@ -57,6 +57,17 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Michaela Szölgyenyi, University of Klagenfurt (AAU)
 * Matt Pharr, NVIDIA
 
+# Steering Committee
+
+* Ronald Cools, KU Leuven
+* Mike Giles, Oxford University
+* Emmanuel Gobet, Ecole Polytechnique, Palaiseau
+* Frances Kuo, University of New South Wales
+* Christiane Lemieux, University of Waterloo
+* Gunter Leobacher, University of Graz
+* Thomas Müller-Gronbach, Universität Passau
+* Bruno Tuffin, Inria Rennes Bretagne-Atlantique
+
 # Scientific Committee
 
 * Miguel Arratia, Department of Physics and Astronomy, U California, Riverside
@@ -95,8 +106,8 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Yuhan Ding, Applied Mathematics, Illinois Institute of Technology
 * Fred Hickernell, Applied Mathematics, Illinois Institute of Technology
 * Tim Hobbs, Physics, Argonne National Laboratory
-* Lulu Kang, Mathematics and Statistics, U Massachusetts Amherst
 * Faith Kancauski, Applied Mathematics, Illinois Institute of Technology
+* Lulu Kang, Mathematics and Statistics, U Massachusetts Amherst
 * Nathan Kirk, Applied Mathematics, Illinois Institute of Technology
 * Yiou Li, Mathematical Sciences, DePaul U
 * David Minh, Chemistry, Illinois Institute of Technology
