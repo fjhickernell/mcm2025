@@ -33,3 +33,7 @@ a US National Science Foundation research institute based at the University of C
 * [BeeInventor: IoT for Smart Construction](https://www.beeinventor.com/)
 
 [<img src="../images/logos/beeinventor.jpeg" alt="IoT for Smart Construction" width="55%">](https://www.beeinventor.com/)
+
+* [Xcelerator Business Summit](https://www.xbsinfo.com/)
+
+[<img src="../images/logos/xcelerator-circle-v1.png" alt="Xcelerator Business Summit" width="55%">](https://www.xbsinfo.com/)
