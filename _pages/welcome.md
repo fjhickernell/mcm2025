@@ -53,9 +53,9 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Roshan Joseph, Georgia Institute of Technology
 * Christiane Lemieux, University of Waterloo
 * Veronika Rockova, University of Chicago
+* Rohan Sawhney, NVIDIA
 * Uros Seljak, U California, Berkeley
 * Michaela Szölgyenyi, University of Klagenfurt (AAU)
-* Matt Pharr, NVIDIA
 
 # Steering Committee
 
