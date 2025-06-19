@@ -36,4 +36,4 @@ a US National Science Foundation research institute based at the University of C
 
 * [Xcelerator Business Summit](https://www.xbsinfo.com/)
 
-[<img src="../images/logos/xcelerator-circle-v1.png" alt="Xcelerator Business Summit" width="55%">](https://www.xbsinfo.com/)
+[<img src="../images/logos/xcelerator-circle-v1.png" alt="Xcelerator Business Summit" width="30%">](https://www.xbsinfo.com/)
