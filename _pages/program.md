@@ -6,4 +6,6 @@ sitemap: false
 permalink: /program/
 ---
 
-See the [draft program]({{ site.baseurl }}/downloads/MCM2025_schedule_2025.pdf).
+Here is the [draft **schedule** as of June 19, 2025]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_06_19_12_37_11.pdf).
+
+Here is the [draft **program book** as of June 19, 2025]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_06_19_12_37_11.pdf).
