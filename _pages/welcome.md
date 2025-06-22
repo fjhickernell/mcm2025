@@ -11,13 +11,13 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 <!--This 15th edition aims to cover traditional topics of MCM conferences (Computational statistical physics, Quasi Monte Carlo methods, Markov Chain Monte Carlo in high dimension, Multilevel methods, Rare events simulation, Stochastic gradient and other stochastic optimization methods…) as well as emerging topics coming from applications and from artificial intelligence as: Generative models, Experimental design in Uncertainty Quantification, Monte Carlo simulations and High Performance computing, Reinforcement learning and control, Statistical learning and Monte Carlo sampling, Economic and industrial applications (Deeptech, finance, medicine, climate risks for instance).
 -->
 
-[Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
+* [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
 
-Special sessions and contributed talks have been selected, but it may be possible to add more. If you are interested in a late submission, please contact us at info@mcm2025chicago.org before submitting an <a href="{{ site.url }}{{ site.baseurl }}/abstracts">abstract</a>.
+* Late contributed talk <a href="{{ site.url }}{{ site.baseurl }}/abstracts">abstract</a> submissions will be considered if there is room in the program.
 
-Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist.
+<!-- Funding decisions for travel support through our sponsor, IMSI, have been made. Those who [apply now](https://www.imsi.institute/activities/15th-international-conference-on-monte-carlo-methods-and-applications-mcm/) will be added to the waitlist. -->
 
-# Topics
+## Topics
 
 MCM 2025 will include active topics of research in Monte Carlo methods---those with a long history as well as those emerging topics.  These will include
 * Markov chain Monte Carlo
@@ -46,7 +46,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Computational statistical physics
 * Economic, engineering, industrial, and scientific applications
 
-# Plenary Speakers
+## Plenary Speakers
 
 * Nicolas Chopin, ENSAE, Institut Polytechnique de Paris
 * Peter W Glynn, Stanford U
@@ -57,7 +57,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Uros Seljak, U California, Berkeley
 * Michaela Szölgyenyi, University of Klagenfurt (AAU)
 
-# Steering Committee
+## Steering Committee
 
 * Ronald Cools, KU Leuven
 * Mike Giles, Oxford University
@@ -68,7 +68,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Thomas Müller-Gronbach, Universität Passau
 * Bruno Tuffin, Inria Rennes Bretagne-Atlantique
 
-# Scientific Committee
+## Scientific Committee
 
 * Miguel Arratia, Department of Physics and Astronomy, U California, Riverside
 * Ronald Cools, Department of Computer Science, KU Leuven
@@ -100,7 +100,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Bruno Tuffin, INRIA Rennes Bretagne-Atlantique
 * Jonathan Weare, Courant Institute of Mathematical Sciences, New York U
 
-# Organizers
+## Organizers
 
 * Sou-Cheng Choi, Principal Data Scientist, SAS Institute and Applied Mathematics, Illinois Institute of Technology
 * Yuhan Ding, Applied Mathematics, Illinois Institute of Technology
@@ -114,7 +114,7 @@ MCM 2025 will include active topics of research in Monte Carlo methods---those w
 * Chang-Han Rhee, Industrial Engineering and Management Sciences, Northwestern U
 * Daniel Sanz-Alonso, Statistics, U Chicago
 
-# History of conferences
+## History of conferences
 
 * Paris, France, July 2023
 * Mannheim, Germany, August 2021
