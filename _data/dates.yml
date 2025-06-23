@@ -1,8 +1,22 @@
-- date: July 28 – August 1, 2025
-  headline: Conference
+- date: 8:45 AM, Monday, July 28, 2025
+  headline: Conference begins in HH auditorium
 
-- date: May 16, 2025
-  headline: Last day for early bird registration
+- date: 5:30 PM, Monday, July 28, 2025
+  headline: Welcome reception in HH lobby
+
+- date: 6:00 PM, Monday, July 29, 2025
+  headline: Walk to White Sox game 
+  box_content: <br>(Meet in HH lobby, tickets must be <a href="https://secure.touchnet.com/C20090_ustores/web/product_detail.jsp?PRODUCTID=2496&SINGLESTORE=true">purchased beforehand</a>)
+
+- date: 6:00 PM, Wednesday, July 30, 2025
+  headline: Conference banquet at the Bridgeport Arts Center
+
+- date: Thursday, July 31, 2025
+  headline: Informal early career dinner
+  box_content: <br>(Indicate your interest <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=PmWQ2gIeCEK2imIkiRvqY6NeY7amNwBPnaXAHlNeNg9UODFMSEVLRjBDWjFQWU5DRVdaSDQ2RTlRRi4u">here</a>)
+
+- date: 6:00 PM, Wednesday, July 30, 2025
+  headline: Conference concludes in HH auditorium
 
 
 

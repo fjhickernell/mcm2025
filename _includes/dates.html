@@ -1,8 +1,9 @@
 
 <div class="well">
-<h4>Important Dates</h4>
+<h4>Important Dates and Times</h4>
 
 {% for article in site.data.dates limit:20 %}
 {{ article.date }}
-<p>{{ article.headline }}</p>
+<p>{{ article.headline }}
+<small>{{ article.box_content }}</small></p>
 {% endfor %}
