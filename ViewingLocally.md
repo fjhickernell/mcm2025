@@ -16,8 +16,13 @@ Ensure you have the following installed:
 You can install them with:
 
 ```bash
-brew install ruby
-brew install jekyll
+brew install chruby ruby-install
+ruby-install ruby 3.4.1
+echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+echo "chruby ruby-3.4.1" >> ~/.zshrc # run 'chruby' to see actual version
+ruby -v
+gem install jekyll
 gem install bundler
 ```
 
