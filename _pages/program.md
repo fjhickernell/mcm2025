@@ -8,7 +8,7 @@ permalink: /program/
 
 Check back for updates as we approach July 28.
 
-As of June23, 2025, here are the draft
+As of June 23, 2025, here are the draft
 * [**schedule**]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_06_23_10_46_12.pdf)
 
 * [**program book**]({{ site.baseurl }}/downloads/MCM2025_schedule_2025_06_23_10_46_12.pdf)
