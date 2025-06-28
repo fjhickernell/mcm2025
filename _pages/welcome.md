@@ -11,7 +11,7 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 <!--This 15th edition aims to cover traditional topics of MCM conferences (Computational statistical physics, Quasi Monte Carlo methods, Markov Chain Monte Carlo in high dimension, Multilevel methods, Rare events simulation, Stochastic gradient and other stochastic optimization methods…) as well as emerging topics coming from applications and from artificial intelligence as: Generative models, Experimental design in Uncertainty Quantification, Monte Carlo simulations and High Performance computing, Reinforcement learning and control, Statistical learning and Monte Carlo sampling, Economic and industrial applications (Deeptech, finance, medicine, climate risks for instance).
 -->
 
-* [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
+* [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).  All participants must register.
   * Paid registrants who withdraw from MCM 2025 may request
     * A full refund of their registration fees on or before June 29, and
     * A half refund of their registration fees on or before July 13.
