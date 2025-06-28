@@ -13,3 +13,11 @@ All MCM 2025 attendees must register. Registration is a two part process:
 Note that submitting a special session proposal or abstract or a contributed talk abstract is a separate process.
 
 All participants must register and pay the registration fee.
+
+Paid registrants who withdraw from MCM 2025 may request
+* A full refund of their registration fees on or before June 29, and
+* A half refund of their registration fees on or before July 13.
+
+No refunds will be granted to registrants withdrawing on or after July 14.
+
+Refunds my take a few weeks to process.

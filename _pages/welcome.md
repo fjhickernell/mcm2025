@@ -12,6 +12,11 @@ The biennial International Conference on Monte Carlo Methods and Applications (M
 -->
 
 * [Register here for MCM 2025](https://mailchi.mp/mcm2025chicago/mcm-2025-conference-registration).
+  * Paid registrants who withdraw from MCM 2025 may request
+    * A full refund of their registration fees on or before June 29, and
+    * A half refund of their registration fees on or before July 13.
+  * No refunds will be granted to registrants withdrawing on or after July 14.
+  * Refunds my take a few weeks to process.
 
 * Late contributed talk <a href="{{ site.url }}{{ site.baseurl }}/abstracts">abstract</a> submissions will be considered if there is room in the program.
 
