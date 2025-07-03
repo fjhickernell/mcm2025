@@ -38,7 +38,7 @@ Meals will _not_ be provided, except for the Wednesday night conference banquet.
     - [Yee's Cantonese Kitchen](https://www.yelp.com/biz/yees-cantonese-kitchen-chicago-2)
 * Near the corner of 33rd Street and Wentworth Avenue Streets
 	- [Stix n Brix Pizza Cafe](https://stixnbrix33.com/)
-    - [Turtle's Bar \& Grill](https://www.yelp.com/biz/turtles-bar-and-grill-chicago)
+    - [Turtle's Bar & Grill](https://www.yelp.com/biz/turtles-bar-and-grill-chicago)
 * Near the corner of 35th and State Streets
     - [Jimmy John's submarine sandwiches](https://www.yelp.com/biz/jimmy-johns-chicago-22)
     - [Starbucks](https://www.yelp.com/biz/starbucks-chicago-113)
